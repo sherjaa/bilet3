@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bilet{
+    margin: 16px;
+}
+.name{
+    background-color: #a8a3a3;
+    padding: 25px;
+}
+.asosiy{
+    display: flex;
+    flex-wrap: wrap;
+}
+.asosiy>*{
+    margin: 10px;
+}
+.asosiy2{
+    display: flex;
+}
+.joo{
+    display: flex;
+    gap: 55px 99px;
+}
+.ikkinchqism{
+    display: flex;
+    gap: 30px;
+}
+.dates{
+    display: flex
+}
+.icon{
+    margin-left: 35px;
+    width: 50px;
+}
+.narxi{
+    background-color: #a8a3a3;
+    padding: 25px;
+    margin-left: 150px;
+    font-size: 14px;
+}
+.header{
+    display: flex;
+}
+.imegerob{
+    display: block;
+}
+.vaqtii{
+    display: block;
+    width: 200px;
+}
